@@ -1,0 +1,19 @@
+{
+  "name": "projeto_loja",
+  "version": "1.0.0",
+  "description": "Loja de Roupas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tiago Sanches da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mariadb": "^3.2.1",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.9.2"
+  }
+}
